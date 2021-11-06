@@ -8,10 +8,10 @@
 * Module-4 - JavaScript Programming for Web Applications
 * Module-5 - GitHub 
 
-## Final Project 
-![Simple Interest Calculator](https://user-images.githubusercontent.com/75073682/140599178-627556bf-09bd-4ac7-88f8-f0b08872a920.png)
-
 ## Certificate 
 ![Certificate](https://user-images.githubusercontent.com/75073682/140599208-6ee394bc-2a51-47a8-8522-f2710db456ac.png)
+
+## Final Project 
+![Simple Interest Calculator](https://user-images.githubusercontent.com/75073682/140599329-f11e793a-7169-4549-8fb5-bf7c917717ed.png)
 
 ## Overall Grade - 95%
