@@ -11,7 +11,5 @@
 ## Certificate 
 ![Certificate](https://user-images.githubusercontent.com/75073682/140599208-6ee394bc-2a51-47a8-8522-f2710db456ac.png)
 
-## Final Project 
-![Simple Interest Calculator](https://user-images.githubusercontent.com/75073682/140599329-f11e793a-7169-4549-8fb5-bf7c917717ed.png)
-
+## Link - https://subhasree2.github.io/Simple-Interest-Calculator/
 ## Overall Grade - 95%
